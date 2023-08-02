@@ -15,8 +15,6 @@ http
 
 ## Results
 
-Author: Yanfei, Xiang
-
 
 ## How to use?
 
