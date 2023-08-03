@@ -81,7 +81,7 @@ We used LightGBM (Ke et al., 2017) to make forecasts for different types of sea 
 
 ### Data Download
 
-
+You can find and download the data used in this study at [zenodo](https://doi.org/10.5281/zenodo.8204518.)
 
 ### Requirements
 
@@ -94,9 +94,6 @@ We used LightGBM (Ke et al., 2017) to make forecasts for different types of sea 
 - imblearn
 - scipy
 - sklearn
-
-## Licence
-
 
 
 ## Reference
