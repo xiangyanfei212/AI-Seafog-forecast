@@ -6,8 +6,6 @@ Accurate and timely prediction of sea fog is very important for activities relat
 
 ## Data
 
-The data used in this study can be found at [].
-
 - yyyy_spot[00/12]_wrf61_prev18.csv: 
 
 This dataset includes visibility observations, station latitude and longitude, time and model forecast variables from 2014 to 2020.
