@@ -83,6 +83,9 @@ We used LightGBM (Ke et al., 2017) to make forecasts for different types of sea 
 
 https://www.zenodo.org/badge/DOI/10.5281/zenodo.8204518.svg
 
+[![DOI](https://www.zenodo.org/badge/DOI/10.5281/zenodo.8204518.svg)](https://doi.org/10.5281/zenodo.8204518)
+
+
 
 You can find and download the data used in this study at [zenodo](https://doi.org/10.5281/zenodo.8204518.)
 
